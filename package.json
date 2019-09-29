@@ -1,0 +1,25 @@
+{
+  "name": "graphql-demo",
+  "version": "1.0.0",
+  "description": "Graphql with node and mongodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emilmork/node-graphql-demo.git"
+  },
+  "keywords": [
+    "graphql",
+    "node",
+    "mongodb",
+    "example"
+  ],
+  "author": "Emil Mork <=>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/emilmork/node-graphql-demo/issues"
+  },
+  "homepage": "https://github.com/emilmork/node-graphql-demo#readme"
+}
