@@ -1,5 +1,7 @@
 ### Using Graphql with node.js and mongodb
 
+Graphql example with node.js, mongodb and apollo server.
+
 Install
 ```js
 npm install
@@ -35,7 +37,7 @@ Example queries
 }
 ```
 
-Will return
+Will return something like
 
 ```
 [{
